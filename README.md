@@ -22,8 +22,8 @@ I strongly believe in simplicity and continuous improvement, which reflects in m
 
 ## 🛠️ Skills  
 
-[![Skills Animation](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode&theme=light)](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,mysql&theme=light
-)
+[![Skills Animation](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,mysql&theme=light)
+
 
 - **Programming Languages**: JavaScript, Python  
 - **Frontend Development**: React.js, HTML5, CSS3  
