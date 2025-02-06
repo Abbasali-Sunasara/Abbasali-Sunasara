@@ -26,8 +26,8 @@ I strongly believe in simplicity and continuous improvement, which reflects in m
 
 - **Programming Languages**: JavaScript, Python  
 - **Frontend Development**: React.js, HTML5, CSS3  
-- **Backend Development**: Node.js, Express.js  
-- **Database Management**: MongoDB  
+- **Backend Development**: Node.js  
+- **Database Management**: Mysql  
 - **Tools & Platforms**: Git, GitHub, VS Code  
 
 ---
