@@ -62,15 +62,6 @@ I strongly believe in simplicity and continuous improvement, which reflects in m
 
 ---
 
-## 📈 My GitHub Stats  
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AbbasaliSunasara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasaliSunasara&layout=compact&langs_count=7&theme=tokyonight"/>  
-</div>  
-
----
-
 ## 🌐 Let's Connect  
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-AbbasaliSunasara-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbasali-sunasara-492300293/)  
