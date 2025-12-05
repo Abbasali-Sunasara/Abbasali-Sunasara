@@ -10,17 +10,17 @@
 
 ## 🌟 About Me  
 
-Hello! I'm Abbasali Sunasara, an aspiring Software Engineer passionate about technology, innovation, and self-growth. I'm currently pursuing my degree in Computer Science, where I am exploring **Full-Stack Development**, **Data Science**, and **innovative problem-solving techniques** to build impactful solutions.  
-
+Hello! I'm Abbasali Sunasara, an emerging Machine Learning Engineer and Data Science enthusiast passionate about turning data into intelligent solutions. I am currently pursuing my Master’s in Computer Applications with a specialization in Data Science, where I am exploring Machine Learning, Artificial Intelligence, and Data Analytics to solve real-world problems. With hands-on experience in Python, data processing, and model development, I enjoy building systems that transform raw data into actionable insights and meaningful impact.
 I strongly believe in simplicity and continuous improvement, which reflects in my projects and approach to learning.  
 
 ---
 
 ## 💡 What I Do  
 
-- **Web Development**: Crafting dynamic, responsive, and user-friendly web applications.  
-- **Problem-Solving**: Tackling real-world challenges with code and creativity.  
-- **Learning & Growth**: Exploring cutting-edge technologies to stay ahead in the field.  
+- **Machine Learning**: Building and experimenting with models that learn from data to predict outcomes and uncover insights.  
+- **Data Analytics**: Cleaning, transforming, and visualizing datasets to extract meaningful patterns and drive data-informed decisions.  
+- **Continuous Learning**: Exploring advancements in AI, NLP, and modern data technologies to stay at the forefront of innovation.  
+
 
 ---
 
