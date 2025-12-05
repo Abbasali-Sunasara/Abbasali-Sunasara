@@ -73,13 +73,9 @@ I strongly believe in simplicity and continuous improvement, which reflects in m
 
 ---
 
-## 🚀 Featured Projects  
 
-- **[Project Name](#)**: Brief description of the project.  
-- **[Project Name](#)**: Brief description of the project.  
-- **[Project Name](#)**: Brief description of the project.  
 
-Explore my repositories for more exciting projects!  
+Explore my repositories for exciting projects!  
 
 ---
 
