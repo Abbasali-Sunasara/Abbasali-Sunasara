@@ -10,8 +10,7 @@
 
 ## 🌟 About Me  
 
-Hello! I'm Abbasali Sunasara, an emerging Machine Learning Engineer and Data Science enthusiast passionate about turning data into intelligent solutions. I am currently pursuing my Master’s in Computer Applications with a specialization in Data Science, where I am exploring Machine Learning, Artificial Intelligence, and Data Analytics to solve real-world problems. With hands-on experience in Python, data processing, and model development, I enjoy building systems that transform raw data into actionable insights and meaningful impact.
-I strongly believe in simplicity and continuous improvement, which reflects in my projects and approach to learning.  
+Hello! I'm Abbasali Sunasara, an emerging Backend Developer, Full-Stack Developer, Machine Learning Engineer, and Data Science enthusiast passionate about building scalable applications and turning data into intelligent solutions. I am currently pursuing my Master’s in Computer Applications with a specialization in Data Science, where I am exploring Machine Learning, Artificial Intelligence, Data Analytics, and modern web development to solve real-world problems. With hands-on experience in Python, JavaScript, backend development, full-stack application development, data processing, and model development, I enjoy building systems that combine robust software engineering with AI to transform raw data into actionable insights and meaningful impact. I strongly believe in simplicity and continuous improvement, which reflects in my projects and approach to learning.
 
 ---
 
