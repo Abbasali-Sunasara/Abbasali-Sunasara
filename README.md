@@ -1,6 +1,6 @@
 # Hi there, I'm Abbasali Sunasara! 👋  
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=4000&pause=1000&color=00C3FF&center=true&vCenter=true&width=650&lines=Emerging+Machine+Learning+Engineer;Aspiring+Data+Scientist;Machine+Learning+%26+AI+Enthusiast;NLP+%7C+Data+Analytics+%7C+Model+Building;Transforming+Data+Into+Intelligence)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=4000&pause=1000&color=00C3FF&center=true&vCenter=true&width=650&lines=Emerging+Machine+Learning+Engineer;Full-Stack+%26+Backend+Developer+Aspirant;Python+%7C+Node.js+%7C+React+%7C+Flask;Data+Analytics+%7C+ETL+%7C+Model+Building;Transforming+Data+Into+Intelligence)
 
 
 
